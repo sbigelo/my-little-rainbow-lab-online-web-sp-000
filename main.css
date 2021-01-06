@@ -9,6 +9,6 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-#1 {
+#red {
   border-top-color: #f00;
 }
